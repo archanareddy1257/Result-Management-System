@@ -1,3 +1,8 @@
 # Result-Management-System
 
-#Result Management is a application which calculates the resluts of students year and sem wise.
+## Result Management is a application which calculates the resluts of students year and sem wise.
+
+### Tech Stack
+C Language
+
+
